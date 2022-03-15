@@ -1,0 +1,47 @@
+.align-th {
+  text-align: center;
+}
+
+.form-container { 
+  margin: 10px auto;  
+  align-items: center;
+  background-color: ghostwhite;
+  border-radius: 25px;
+  border: 1px solid gray;    
+}
+
+.form-container-width-50 {
+  width: 50%; 
+}
+
+.form-container-width-40 {
+  width: 40%; 
+}
+.form-container h5 { 
+  color: bisque;
+  background-color: lightslategrey;
+  padding: 10px;  
+  border-radius: 25px 25px 0 0;
+  text-align: center;
+  font-size: medium;
+}
+
+.form-container form { 
+  margin: 10px;
+}
+
+.submit-container {    
+  text-align: center;
+}
+
+.underline {
+  color: red;      
+}
+
+#datalibros {
+  font-size: 9pt;
+}
+
+#dataestudiantes {
+  font-size: 10pt;  
+}
